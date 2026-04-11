@@ -1,0 +1,29 @@
+references:
+  - type: generic
+    title: "Pokémon"
+    authors:
+      - name: "The Pokémon Company International"
+    publisher:
+      name: "Nintendo"
+    notes: "Generic reference for the Pokémon franchise and related intellectual property."
+
+  - type: "Stream Asset"
+    title: "Lava Flowing at Night"
+    file_format: "jpg"
+    artist: "Björn Austmar Þórsson"
+    source_url: "https://www.pexels.com/photo/lava-flowing-at-night-7301338/"
+    licensing_notes: "Free to Use"
+
+  - type: "Stream Asset"
+    title: "Ocean Waves"
+    file_format: "jpg"
+    artist: "felipepelaquim"
+    source_url: "https://www.pexels.com/photo/ocean-waves-1894993/"
+    licensing_notes: "Free to Use"
+
+  - type: "Stream Asset"
+    title: "Thunder Striking a Building Photo"
+    file_format: "jpg"
+    artist: "takenbytablo"
+    source_url: "https://www.pexels.com/photo/thunder-striking-a-building-photo-680940/"
+    licensing_notes: "Free to Use"
